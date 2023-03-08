@@ -1,4 +1,4 @@
-# Different-continent-sales-data-a-local-currency-conversion-to-Danish-kroner.
+# Different-continent-sales-data-a-local-currency-conversion-to-Danish-krone.
 I N T R O D U C T I O N
 You are a data engineer / data scientist for one of Denmark's leading agencies within digital 
 marketing and data-driven strategy. You must therefore help Danish e-commerce businesses to 
