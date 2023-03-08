@@ -1,0 +1,519 @@
+"date","source_medium","campaign","campaign_categori","currency","transactions","transaction_revenue","exchange_rate","revenue_in_DKK"
+2021-09-01,"google / cpc","00: brand","Brand","USD",7,6955,6.288854,43738.97957
+2021-09-01,"google / cpc","02: shopping [smart]","Others","NOK",15,9575,0.723638,6928.83385
+2021-09-01,"(direct) / (none)","(not set)","Others","SEK",29,17463,0.729463,12738.612369
+2021-09-01,"google / organic","(not set)","Others","USD",17,10329,6.288854,64957.572966
+2021-09-01,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","USD",4,1765,6.288854,11099.82731
+2021-09-01,"google / cpc","00: brand - mærker","Brand","USD",2,1150,6.288854,7232.1821
+2021-09-01,"google / cpc","b: tøjfus","Others","USD",1,350,6.288854,2201.0989
+2021-09-01,"google / cpc","01: dsa","Others","USD",1,330,6.288854,2075.32182
+2021-09-01,"google / cpc","g: tøj","Others","USD",1,800,6.288854,5031.0832
+2021-09-01,"nyhedsbrev / email","abandoned product interest email - dk","Others","USD",1,570,6.288854,3584.64678
+2021-09-01,"acs1.3ds.modirum.com / referral","(not set)","Others","USD",1,325,6.288854,2043.87755
+2021-09-01,"nyhedsbrev / email","newslettersignup-welcomemailtemppassword-dk","Others","USD",1,200,6.288854,1257.7708
+2021-09-01,"nyhedsbrev / email","uge 17 - dk - sporty sandaler og sneakers - dame interesse","Others","USD",1,140,6.288854,880.43956
+2021-09-01,"s0.2mdn.net / referral","(not set)","Others","DKK",1,925,1,925
+2021-09-01,"facebook / social","dpa","Others","SEK",1,240,0.729463,175.07112
+2021-09-01,"google / cpc","b: rieker","Others","SEK",1,800,0.729463,583.5704
+2021-09-02,"google / cpc","02: shopping [smart]","Others","NOK",10,5985,0.723061,4327.520085
+2021-09-02,"google / cpc","00: brand","Brand","SEK",7,4500,0.729738,3283.821
+2021-09-02,"(direct) / (none)","(not set)","Others","SEK",28,18085,0.729738,13197.31173
+2021-09-02,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","DKK",4,1400,1,1400
+2021-09-02,"google / organic","(not set)","Others","DKK",21,15575,1,15575
+2021-09-02,"facebook / social","dpa","Others","DKK",2,1575,1,1575
+2021-09-02,"google / cpc","01: dsa","Others","DKK",1,500,1,500
+2021-09-02,"google / cpc","00: brand - mærker","Brand","DKK",1,750,1,750
+2021-09-02,"m.facebook.com / referral","(not set)","Others","DKK",1,450,1,450
+2021-09-02,"pricerunner / cpc","pricerunner","Others","DKK",1,750,1,750
+2021-09-03,"google / cpc","00: brand","Brand","DKK",5,3020,1,3020
+2021-09-03,"google / cpc","02: shopping [smart]","Others","DKK",6,3850,1,3850
+2021-09-03,"google / organic","(not set)","Others","DKK",14,9374,1,9374
+2021-09-03,"(direct) / (none)","(not set)","Others","DKK",28,18365,1,18365
+2021-09-03,"nyhedsbrev / email","uge 35 - år 21 - dk - angulus","Others","DKK",5,6150,1,6150
+2021-09-03,"m.facebook.com / referral","(not set)","Others","DKK",2,1285,1,1285
+2021-09-03,"acs2.3dsecure.no / referral","(not set)","Others","SEK",2,1750,0.731358,1279.8765
+2021-09-03,"google / cpc","01: dsa","Others","SEK",1,950,0.731358,694.7901
+2021-09-03,"facebook / social","dpa","Others","NOK",1,400,0.723316,289.3264
+2021-09-03,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","NOK",1,600,0.723316,433.9896
+2021-09-03,"instagram.com / referral","(not set)","Others","NOK",1,480,0.723316,347.19168
+2021-09-03,"google / cpc","b: tommy hilfiger","Others","NOK",1,1600,0.723316,1157.3056
+2021-09-03,"google / cpc","b: bisgaard","Others","NOK",1,300,0.723316,216.9948
+2021-09-03,"google / cpc","b: cult","Others","NOK",1,700,0.723316,506.3212
+2021-09-04,"google / cpc","01: dsa","Others","NOK",3,2785,0.722088,2011.01508
+2021-09-04,"google / cpc","02: shopping [smart]","Others","NOK",9,4950,0.722088,3574.3356
+2021-09-04,"google / cpc","00: brand","Brand","NOK",9,5300,0.722088,3827.0664
+2021-09-04,"(direct) / (none)","(not set)","Others","SEK",27,18265,0.73243,13377.83395
+2021-09-04,"google / organic","(not set)","Others","SEK",12,8080,0.73243,5918.0344
+2021-09-04,"google / cpc","00: brand - by","Brand","SEK",2,1100,0.73243,805.673
+2021-09-04,"nyhedsbrev / email","abandoned basket email - dk","Others","SEK",2,1000,0.73243,732.43
+2021-09-04,"nyhedsbrev / email","uge 35 - år 21 - dk - angulus","Others","SEK",2,2150,0.73243,1574.7245
+2021-09-04,"facebook / social","dpa","Others","DKK",2,1450,1,1450
+2021-09-04,"google / cpc","00: brand - kategorier","Brand","DKK",1,600,1,600
+2021-09-04,"yahoo / organic","(not set)","Others","DKK",1,400,1,400
+2021-09-04,"maaltidskasser-online.dk / referral","(not set)","Others","DKK",1,700,1,700
+2021-09-04,"m.facebook.com / referral","(not set)","Others","SEK",1,200,0.73243,146.486
+2021-09-04,"nyhedsbrev / email","resetpassword-dk","Others","SEK",1,550,0.73243,402.8365
+2021-09-04,"facebook / social","outlet","Others","SEK",1,180,0.73243,131.8374
+2021-09-04,"nyhedsbrev / email","uge 19-21 - dk - best of brands rieker - komfort","Others","SEK",1,1300,0.73243,952.159
+2021-09-04,"l.facebook.com / referral","(not set)","Others","SEK",1,900,0.73243,659.187
+2021-09-04,"google / cpc","b: zafary","Others","SEK",1,300,0.73243,219.729
+2021-09-05,"google / cpc","01: dsa","Others","SEK",3,1400,0.732382,1025.3348
+2021-09-05,"google / cpc","02: shopping [smart]","Others","SEK",12,7395,0.732382,5415.96489
+2021-09-05,"google / cpc","00: brand","Brand","SEK",8,4525,0.732382,3314.02855
+2021-09-05,"google / organic","(not set)","Others","SEK",22,12739,0.732382,9329.814298
+2021-09-05,"nyhedsbrev / email","uge 35 - år 21 - dk - fashion lookbook - long chelsea","Others","SEK",3,2040,0.732382,1494.05928
+2021-09-05,"(direct) / (none)","(not set)","Others","SEK",28,18239,0.732382,13357.915298
+2021-09-05,"facebook / social","dpa","Others","NOK",2,2000,0.722148,1444.296
+2021-09-05,"google / cpc","00: brand - by","Brand","AUD",1,750,4.666582,3499.9365
+2021-09-05,"google / cpc","00: brand - mærker","Brand","AUD",1,900,4.666582,4199.9238
+2021-09-05,"nyhedsbrev / email","uge 35 - år 21 - dk - angulus","Others","AUD",1,500,4.666582,2333.291
+2021-09-05,"nyhedsbrev / email","abandoned basket email - dk","Others","AUD",1,280,4.666582,1306.64296
+2021-09-05,"bing / organic","(not set)","Others","AUD",1,1325,4.666582,6183.22115
+2021-09-05,"nyhedsbrev / email","uge 13 - dk - puma sneax","Others","DKK",1,700,1,700
+2021-09-06,"google / cpc","02: shopping [smart]","Others","DKK",15,9630,1,9630
+2021-09-06,"google / cpc","00: brand","Brand","DKK",5,2900,1,2900
+2021-09-06,"google / organic","(not set)","Others","DKK",21,12493,1,12493
+2021-09-06,"(direct) / (none)","(not set)","Others","AUD",15,11715,4.65863,54575.85045
+2021-09-06,"google / cpc","01: dsa","Others","EUR",2,900,7.435979,6692.3811
+2021-09-06,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","NOK",1,1300,0.722696,939.5048
+2021-09-06,"facebook / social","dpa","Others","NOK",1,1275,0.722696,921.4374
+2021-09-06,"bing / organic","(not set)","Others","NOK",1,340,0.722696,245.71664
+2021-09-06,"google / cpc","b: rohde","Others","NOK",1,400,0.722696,289.0784
+2021-09-07,"google / cpc","00: brand","Brand","NOK",12,10235,0.723336,7403.34396
+2021-09-07,"google / cpc","02: shopping [smart]","Others","NOK",15,9170,0.723336,6632.99112
+2021-09-07,"(direct) / (none)","(not set)","Others","EUR",31,21639,7.436073,160909.183647
+2021-09-07,"google / organic","(not set)","Others","EUR",19,9875,7.436073,73431.220875
+2021-09-07,"google / cpc","01: dsa","Others","EUR",2,2400,7.436073,17846.5752
+2021-09-07,"google / cpc","00: brand - by","Brand","EUR",1,450,7.436073,3346.23285
+2021-09-07,"nyhedsbrev / email","uge 35 - år 21 - dk - fashion lookbook - long chelsea","Others","EUR",1,350,7.436073,2602.62555
+2021-09-07,"nyhedsbrev / email","uge 35 - år 21 - dk - vagabond tøj","Others","EUR",1,360,7.436073,2676.98628
+2021-09-07,"facebook / social","outlet","Others","EUR",1,160,7.436073,1189.77168
+2021-09-07,"facebook / social","dpa","Others","EUR",1,925,7.436073,6878.367525
+2021-09-08,"google / cpc","01: dsa","Others","EUR",3,2300,7.436006,17102.8138
+2021-09-08,"google / cpc","00: brand","Brand","DKK",6,5800,1,5800
+2021-09-08,"google / cpc","02: shopping [smart]","Others","DKK",14,7805,1,7805
+2021-09-08,"bing / organic","(not set)","Others","DKK",3,1925,1,1925
+2021-09-08,"(direct) / (none)","(not set)","Others","DKK",27,14505,1,14505
+2021-09-08,"google / organic","(not set)","Others","DKK",18,12025,1,12025
+2021-09-08,"facebook / social","dpa","Others","EUR",6,3900,7.436006,29000.4234
+2021-09-08,"google / cpc","00: brand - by","Brand","EUR",1,650,7.436006,4833.4039
+2021-09-08,"google / cpc","00: brand - mærker","Brand","EUR",1,1000,7.436006,7436.006
+2021-09-08,"google / cpc","b: tamaris","Others","EUR",1,625,7.436006,4647.50375
+2021-09-08,"google / cpc","b: tøjfus","Others","EUR",1,400,7.436006,2974.4024
+2021-09-08,"nyhedsbrev / email","uge 32 - år 21 - dk - kids brand days sneakers (fila puma)","Others","NOK",1,1300,0.722448,939.1824
+2021-09-08,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","EUR",1,900,7.436006,6692.4054
+2021-09-08,"facebook / social","outlet","Others","EUR",1,340,7.436006,2528.24204
+2021-09-08,"facebook / social","vagabond_efteraarsnyheder","Others","DKK",1,1300,1,1300
+2021-09-08,"webmail.yousee.dk / referral","(not set)","Others","EUR",1,320,7.436006,2379.52192
+2021-09-08,"nyhedsbrev / email","resetpassword-dk","Others","EUR",1,400,7.436006,2974.4024
+2021-09-09,"google / cpc","00: brand","Brand","EUR",7,3700,7.436049,27513.3813
+2021-09-09,"google / cpc","02: shopping [smart]","Others","EUR",14,10150,7.436049,75475.89735
+2021-09-09,"google / organic","(not set)","Others","DKK",12,7159,1,7159
+2021-09-09,"(direct) / (none)","(not set)","Others","EUR",21,12975,7.436049,96482.735775
+2021-09-09,"facebook / social","angulus_stovler","Others","EUR",2,2925,7.436049,21750.443325
+2021-09-09,"google / cpc","00: brand - kategorier","Brand","EUR",1,500,7.436049,3718.0245
+2021-09-09,"google / cpc","01: dsa","Others","EUR",1,800,7.436049,5948.8392
+2021-09-09,"bing / organic","(not set)","Others","EUR",1,450,7.436049,3346.22205
+2021-09-09,"nyhedsbrev / email","uge 30 - år 21 - dk - sale slutspurt - mail 2","Others","EUR",1,280,7.436049,2082.09372
+2021-09-09,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,690,7.436049,5130.87381
+2021-09-09,"nyhedsbrev / email","uge 36 - år 21 - dk - fashion lookbook - herre nyheder","Others","EUR",1,300,7.436049,2230.8147
+2021-09-09,"dk.search.yahoo.com / referral","(not set)","Others","EUR",1,650,7.436049,4833.43185
+2021-09-09,"pricerunner / cpc","pricerunner","Others","EUR",1,550,7.436049,4089.82695
+2021-09-09,"ønskeskyen.dk / referral","(not set)","Others","EUR",1,500,7.436049,3718.0245
+2021-09-10,"google / cpc","02: shopping [smart]","Others","EUR",6,4275,7.436082,31789.25055
+2021-09-10,"google / cpc","00: brand","Brand","NOK",6,3300,0.726642,2397.9186
+2021-09-10,"(direct) / (none)","(not set)","Others","NOK",13,6650,0.726642,4832.1693
+2021-09-10,"google / organic","(not set)","Others","NOK",17,10255,0.726642,7451.71371
+2021-09-10,"google / cpc","g: tøj","Others","NOK",1,240,0.726642,174.39408
+2021-09-10,"nyhedsbrev / email","resetpassword-dk","Others","NOK",1,550,0.726642,399.6531
+2021-09-10,"facebook / social","fashion_men","Others","EUR",1,850,7.436082,6320.6697
+2021-09-10,"bing / organic","(not set)","Others","EUR",1,800,7.436082,5948.8656
+2021-09-10,"m.facebook.com / referral","(not set)","Others","EUR",1,540,7.436082,4015.48428
+2021-09-10,"facebook / social","dpa","Others","DKK",1,300,1,300
+2021-09-10,"facebook / social","outlet","Others","EUR",1,250,7.436082,1859.0205
+2021-09-10,"google / cpc","b: superfit","Others","EUR",1,450,7.436082,3346.2369
+2021-09-11,"google / cpc","02: shopping [smart]","Others","EUR",9,5635,7.4363,41903.5505
+2021-09-11,"google / cpc","00: brand","Brand","EUR",8,4775,7.4363,35508.3325
+2021-09-11,"facebook / social","dpa","Others","EUR",3,1900,7.4363,14128.97
+2021-09-11,"(direct) / (none)","(not set)","Others","EUR",26,15708,7.4363,116809.4004
+2021-09-11,"google / organic","(not set)","Others","EUR",21,16705,7.4363,124223.3915
+2021-09-11,"google / cpc","01: dsa","Others","EUR",2,1730,7.4363,12864.799
+2021-09-11,"facebook / social","outlet","Others","EUR",2,555,7.4363,4127.1465
+2021-09-11,"google / cpc","00: brand - mærker","Brand","EUR",1,600,7.4363,4461.78
+2021-09-11,"google / cpc","g: tøj","Others","EUR",1,1075,7.4363,7994.0225
+2021-09-11,"facebook / social","fashion_long-chelsea","Others","EUR",1,1000,7.4363,7436.3
+2021-09-11,"yahoo / organic","(not set)","Others","EUR",1,300,7.4363,2230.89
+2021-09-11,"facebook / social","fashion_men","Others","EUR",1,500,7.4363,3718.15
+2021-09-11,"bing / organic","(not set)","Others","DKK",1,800,1,800
+2021-09-11,"facebook / social","kids_brand_days_superfit","Others","EUR",1,350,7.4363,2602.705
+2021-09-12,"google / cpc","02: shopping [smart]","Others","EUR",13,7950,7.436269,59118.33855
+2021-09-12,"google / cpc","00: brand","Brand","EUR",7,4940,7.436269,36735.16886
+2021-09-12,"google / organic","(not set)","Others","EUR",13,8294,7.436269,61676.415086
+2021-09-12,"(direct) / (none)","(not set)","Others","EUR",31,18549,7.436269,137935.353681
+2021-09-12,"google / cpc","01: dsa","Others","EUR",2,1600,7.436269,11898.0304
+2021-09-12,"facebook / social","outlet","Others","EUR",1,1500,7.436269,11154.4035
+2021-09-12,"facebook / social","dpa","Others","EUR",1,500,7.436269,3718.1345
+2021-09-12,"nyhedsbrev / email","newslettersignup-welcomemailtemppassword-dk","Others","EUR",1,450,7.436269,3346.32105
+2021-09-12,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","EUR",1,850,7.436269,6320.82865
+2021-09-12,"m.facebook.com / referral","(not set)","Others","EUR",1,280,7.436269,2082.15532
+2021-09-12,"pricerunner / cpc","pricerunner","Others","EUR",1,400,7.436269,2974.5076
+2021-09-12,"yahoo / organic","(not set)","Others","EUR",1,700,7.436269,5205.3883
+2021-09-12,"nyhedsbrev / email","resetpassword-dk","Others","EUR",1,900,7.436269,6692.6421
+2021-09-13,"google / cpc","00: brand","Brand","EUR",7,5548,7.436134,41255.671432
+2021-09-13,"google / cpc","02: shopping [smart]","Others","EUR",12,6175,7.436134,45918.12745
+2021-09-13,"(direct) / (none)","(not set)","Others","EUR",43,28640,7.436134,212970.87776
+2021-09-13,"google / organic","(not set)","Others","EUR",26,16500,7.436134,122696.211
+2021-09-13,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",4,3050,7.436134,22680.2087
+2021-09-13,"google / cpc","00: brand - by","Brand","EUR",2,1750,7.436134,13013.2345
+2021-09-13,"google / cpc","01: dsa","Others","EUR",2,489,7.436134,3636.269526
+2021-09-13,"google / cpc","b: ecco","Others","DKK",1,1300,1,1300
+2021-09-13,"google / cpc","g: tøj","Others","EUR",1,1300,7.436134,9666.9742
+2021-09-13,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,350,7.436134,2602.6469
+2021-09-13,"nyhedsbrev / email","uge 35 - år 21 - dk - vagabond tøj","Others","EUR",1,1100,7.436134,8179.7474
+2021-09-13,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","EUR",1,400,7.436134,2974.4536
+2021-09-13,"facebook / social","dpa","Others","EUR",1,700,7.436134,5205.2938
+2021-09-13,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - ikke klubmedlem (impact)","Others","EUR",1,600,7.436134,4461.6804
+2021-09-14,"google / cpc","02: shopping [smart]","Others","EUR",14,9340,7.436134,69453.49156
+2021-09-14,"google / cpc","00: brand","Brand","EUR",14,9175,7.436134,68226.52945
+2021-09-14,"google / cpc","01: dsa","Others","EUR",4,2900,7.436134,21564.7886
+2021-09-14,"google / organic","(not set)","Others","EUR",21,15835,7.436134,117751.18189
+2021-09-14,"(direct) / (none)","(not set)","Others","EUR",36,23324,7.436134,173440.389416
+2021-09-14,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",2,1300,7.436134,9666.9742
+2021-09-14,"google / cpc","00: brand - mærker","Brand","EUR",1,300,7.436134,2230.8402
+2021-09-14,"google / cpc","b: tøjfus","Others","EUR",1,450,7.436134,3346.2603
+2021-09-14,"google / cpc","00: brand - kategorier","Brand","EUR",1,700,7.436134,5205.2938
+2021-09-14,"facebook / social","vagabond_efteraarsnyheder","Others","EUR",1,900,7.436134,6692.5206
+2021-09-14,"bing / organic","(not set)","Others","EUR",1,789,7.436134,5867.109726
+2021-09-14,"nyhedsbrev / email","uge 35 - år 21 - dk - angulus","Others","EUR",1,800,7.436134,5948.9072
+2021-09-14,"ønskeskyen.dk / referral","(not set)","Others","EUR",1,1400,7.436134,10410.5876
+2021-09-14,"yahoo / organic","(not set)","Others","EUR",1,500,7.436134,3718.067
+2021-09-14,"nyhedsbrev / email","uge 24 - år 21 - dk - komfortsandaler - dame","Others","DKK",1,850,1,850
+2021-09-14,"google / cpc","b: rohde","Others","EUR",1,400,7.436134,2974.4536
+2021-09-14,"google / cpc","b: teva","Others","EUR",1,775,7.436134,5763.00385
+2021-09-15,"google / cpc","01: dsa","Others","EUR",8,6050,7.436128,44988.5744
+2021-09-15,"google / cpc","00: brand - by","Brand","EUR",3,2855,7.436128,21230.14544
+2021-09-15,"google / cpc","00: brand","Brand","EUR",54,61387,7.436128,456481.589536
+2021-09-15,"google / cpc","02: shopping [smart]","Others","EUR",24,16554,7.436128,123097.662912
+2021-09-15,"google / organic","(not set)","Others","EUR",72,70359,7.436128,523198.529952
+2021-09-15,"nyhedsbrev / email","resetpassword-dk","Others","EUR",33,37484,7.436128,278735.821952
+2021-09-15,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",57,69963,7.436128,520253.823264
+2021-09-15,"nyhedsbrev / email","newslettersignup-welcomemailtemppassword-dk","Others","EUR",13,12350,7.436128,91836.1808
+2021-09-15,"acs2.sparebank1.no / referral","(not set)","Others","DKK",3,3540,1,3540
+2021-09-15,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter nu (kundeklub)","Others","DKK",88,95142,1,95142
+2021-09-15,"bing / organic","(not set)","Others","DKK",6,8469,1,8469
+2021-09-15,"nyhedsbrev / email","abandoned basket email - dk","Others","DKK",9,8435,1,8435
+2021-09-15,"(direct) / (none)","(not set)","Others","DKK",125,137004,1,137004
+2021-09-15,"nyhedsbrev / email","abandoned product interest email - dk","Others","DKK",3,3700,1,3700
+2021-09-15,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - ikke klubmedlem (mailchimp)","Others","EUR",2,1994,7.436128,14827.639232
+2021-09-15,"pricerunner / cpc","pricerunner","Others","EUR",2,750,7.436128,5577.096
+2021-09-15,"nyhedsbrev / email","(not set)","Others","EUR",2,1065,7.436128,7919.47632
+2021-09-15,"google / cpc","b: rieker","Others","EUR",1,1275,7.436128,9481.0632
+2021-09-15,"google / cpc","00: brand - mærker","Brand","EUR",1,690,7.436128,5130.92832
+2021-09-15,"facebook / social","dpa","Others","EUR",1,1080,7.436128,8031.01824
+2021-09-15,"pay.activa-card.com / referral","(not set)","Others","EUR",1,625,7.436128,4647.58
+2021-09-15,"nyhedsbrev / email","invoiceemail-dk","Others","DKK",1,550,1,550
+2021-09-15,"facebook / social","boernenes-uge_teaser","Others","DKK",1,1114,1,1114
+2021-09-15,"nyhedsbrev / email","uge 35 - år 21 - dk - outlet","Others","EUR",1,875,7.436128,6506.612
+2021-09-15,"sillebroen.dk / referral","(not set)","Others","EUR",1,350,7.436128,2602.6448
+2021-09-15,"facebook / social","kids_brand_days","Others","EUR",1,595,7.436128,4424.49616
+2021-09-15,"google / cpc","b: nerogiardini","Others","EUR",1,1400,7.436128,10410.5792
+2021-09-16,"google / cpc","00: brand","Brand","EUR",33,27405,7.43601,203783.85405
+2021-09-16,"google / cpc","02: shopping [smart]","Others","EUR",22,12480,7.43601,92801.4048
+2021-09-16,"google / cpc","01: dsa","Others","EUR",9,8779,7.43601,65280.73179
+2021-09-16,"google / organic","(not set)","Others","DKK",36,27760,1,27760
+2021-09-16,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter nu (kundeklub)","Others","EUR",10,7945,7.43601,59079.09945
+2021-09-16,"facebook / social","boernenes-uge_så-er-vi-igang","Others","EUR",5,5030,7.43601,37403.1303
+2021-09-16,"(direct) / (none)","(not set)","Others","EUR",71,63995,7.43601,475867.45995
+2021-09-16,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",5,3770,7.43601,28033.7577
+2021-09-16,"nyhedsbrev / email","uge 37 - dk - børnenes uge er igang - (til alle)","Others","EUR",24,22550,7.43601,167682.0255
+2021-09-16,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - ikke klubmedlem (mailchimp)","Others","EUR",2,715,7.43601,5316.74715
+2021-09-16,"nyhedsbrev / email","newslettersignup-welcomemailtemppassword-dk","Others","EUR",2,1620,7.43601,12046.3362
+2021-09-16,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - ikke klubmedlem (impact)","Others","EUR",2,2525,7.43601,18775.92525
+2021-09-16,"nyhedsbrev / email","resetpassword-dk","Others","EUR",2,2775,7.43601,20634.92775
+2021-09-16,"google / cpc","00: brand - kategorier","Brand","EUR",1,1000,7.43601,7436.01
+2021-09-16,"google / cpc","b: tøjfus","Others","EUR",1,250,7.43601,1859.0025
+2021-09-16,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,665,7.43601,4944.94665
+2021-09-16,"facebook / social","fashion_long-chelsea","Others","EUR",1,850,7.43601,6320.6085
+2021-09-16,"iPaper / magasin","boernenes_uge","Others","EUR",1,2250,7.43601,16731.0225
+2021-09-16,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,630,7.43601,4684.6863
+2021-09-16,"s0.2mdn.net / referral","(not set)","Others","EUR",1,450,7.43601,3346.2045
+2021-09-16,"facebook / social","dpa","Others","EUR",1,825,7.43601,6134.70825
+2021-09-16,"programmatic / display","boernenes-uge","Others","EUR",1,840,7.43601,6246.2484
+2021-09-16,"nyhedsbrev / email","uge 12 - dk - børnenes uge starter i dag - til alle","Others","EUR",1,1450,7.43601,10782.2145
+2021-09-16,"nyhedsbrev / email","uge 25 - år 21 - dk - sneakers sale","Others","EUR",1,1325,7.43601,9852.71325
+2021-09-16,"facebook / social","boernenes-uge_teaser","Others","EUR",1,1025,7.43601,7621.91025
+2021-09-17,"google / cpc","02: shopping [smart]","Others","EUR",23,16125,7.435933,119904.419625
+2021-09-17,"google / cpc","00: brand","Brand","EUR",18,10360,7.435933,77036.26588
+2021-09-17,"google / cpc","01: dsa","Others","EUR",3,2190,7.435933,16284.69327
+2021-09-17,"(direct) / (none)","(not set)","Others","EUR",73,52545,7.435933,390721.099485
+2021-09-17,"google / organic","(not set)","Others","EUR",19,12430,7.435933,92428.64719
+2021-09-17,"nyhedsbrev / email","uge 37 - dk - børnenes uge er igang - (til alle)","Others","EUR",4,3915,7.435933,29111.677695
+2021-09-17,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",3,1890,7.435933,14053.91337
+2021-09-17,"facebook / social","dpa","Others","EUR",2,800,7.435933,5948.7464
+2021-09-17,"google / cpc","b: ecco","Others","EUR",1,420,7.435933,3123.09186
+2021-09-17,"m.facebook.com / referral","(not set)","Others","EUR",1,840,7.435933,6246.18372
+2021-09-17,"nyhedsbrev / email","uge 26 - år 21 - dk - sale - alle","Others","EUR",1,870,7.435933,6469.26171
+2021-09-17,"nyhedsbrev / email","uge 28 - år 21 - dk - sale - ekstra rabat, mail 2","Others","EUR",1,1300,7.435933,9666.7129
+2021-09-17,"nyhedsbrev / email","(not set)","Others","EUR",1,700,7.435933,5205.1531
+2021-09-17,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter nu (kundeklub)","Others","EUR",1,700,7.435933,5205.1531
+2021-09-17,"nyhedsbrev / email","uge","Others","EUR",1,450,7.435933,3346.16985
+2021-09-17,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,810,7.435933,6023.10573
+2021-09-17,"facebook / social","bu_tøjfus","Others","EUR",1,315,7.435933,2342.318895
+2021-09-17,"bing / organic","(not set)","Others","EUR",1,300,7.435933,2230.7799
+2021-09-17,"facebook / social","boernenes-uge_så-er-vi-igang","Others","EUR",1,3930,7.435933,29223.21669
+2021-09-17,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,350,7.435933,2602.57655
+2021-09-17,"google / cpc","b: cult","Others","EUR",1,350,7.435933,2602.57655
+2021-09-18,"google / cpc","02: shopping [smart]","Others","EUR",20,11280,7.43583,83876.1624
+2021-09-18,"google / cpc","00: brand - by","Brand","EUR",3,1400,7.43583,10410.162
+2021-09-18,"google / cpc","00: brand","Brand","EUR",12,8825,7.43583,65621.19975
+2021-09-18,"google / cpc","01: dsa","Others","EUR",5,3535,7.43583,26285.65905
+2021-09-18,"acs2.3dsecure.no / referral","(not set)","Others","EUR",8,6530,7.43583,48555.9699
+2021-09-18,"(direct) / (none)","(not set)","Others","EUR",35,26985,7.43583,200655.87255
+2021-09-18,"nyhedsbrev / email","uge 37 - dk - børnenes uge - fokus på brands og varerne","Others","EUR",7,4295,7.43583,31936.88985
+2021-09-18,"google / organic","(not set)","Others","EUR",31,21639,7.43583,160903.92537
+2021-09-18,"facebook / social","boernenes-uge_så-er-vi-igang","Others","EUR",2,2175,7.43583,16172.93025
+2021-09-18,"google / cpc","g: tøj","Others","EUR",1,500,7.43583,3717.915
+2021-09-18,"google / cpc","b: ecco","Others","EUR",1,275,7.43583,2044.85325
+2021-09-18,"nyhedsbrev / email","uge 37 - dk - børnenes uge er igang - (til alle)","Others","EUR",1,720,7.43583,5353.7976
+2021-09-18,"facebook / social","boernenes_uge","Others","EUR",1,965,7.43583,7175.57595
+2021-09-18,"facebook / social","boernenes-uge_fokus-paa-brands","Others","EUR",1,1325,7.43583,9852.47475
+2021-09-18,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter nu (kundeklub)","Others","EUR",1,1275,7.43583,9480.68325
+2021-09-18,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,500,7.43583,3717.915
+2021-09-18,"facebook / social","dpa","Others","EUR",1,500,7.43583,3717.915
+2021-09-18,"bing / organic","(not set)","Others","EUR",1,900,7.43583,6692.247
+2021-09-18,"yahoo / organic","(not set)","Others","EUR",1,500,7.43583,3717.915
+2021-09-18,"google / cpc","b: bisgaard","Others","EUR",1,300,7.43583,2230.749
+2021-09-18,"google / cpc","b: cult","Others","EUR",1,420,7.43583,3123.0486
+2021-09-19,"google / cpc","00: brand","Brand","EUR",16,10235,7.435839,76105.812165
+2021-09-19,"google / cpc","02: shopping [smart]","Others","DKK",12,7820,1,7820
+2021-09-19,"google / cpc","01: dsa","Others","DKK",10,5880,1,5880
+2021-09-19,"acs2.3dsecure.no / referral","(not set)","Others","DKK",3,2415,1,2415
+2021-09-19,"(direct) / (none)","(not set)","Others","DKK",53,35425,1,35425
+2021-09-19,"google / organic","(not set)","Others","EUR",32,23665,7.435839,175969.129935
+2021-09-19,"facebook / social","dpa","Others","EUR",4,1660,7.435839,12343.49274
+2021-09-19,"facebook / social","boernenes-uge_så-er-vi-igang","Others","EUR",4,1925,7.435839,14313.990075
+2021-09-19,"bing / organic","(not set)","Others","EUR",2,1950,7.435839,14499.88605
+2021-09-19,"google / cpc","b: b&co","Others","EUR",1,550,7.435839,4089.71145
+2021-09-19,"google / cpc","b: ecco","Others","EUR",1,490,7.435839,3643.56111
+2021-09-19,"nyhedsbrev / email","uge 37 - dk - børnenes uge er igang - (til alle)","Others","EUR",1,550,7.435839,4089.71145
+2021-09-19,"l.facebook.com / referral","(not set)","Others","EUR",1,490,7.435839,3643.56111
+2021-09-19,"nyhedsbrev / email","newslettersignup-welcomemailtemppassword-dk","Others","EUR",1,300,7.435839,2230.7517
+2021-09-19,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - ikke klubmedlem (mailchimp)","Others","EUR",1,690,7.435839,5130.72891
+2021-09-19,"m.facebook.com / referral","(not set)","Others","EUR",1,625,7.435839,4647.399375
+2021-09-19,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,600,7.435839,4461.5034
+2021-09-19,"facebook / social","boernenes-uge_fokus-paa-brands","Others","EUR",1,490,7.435839,3643.56111
+2021-09-19,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - ikke klubmedlem (impact)","Others","EUR",1,775,7.435839,5762.775225
+2021-09-19,"google / cpc","b: bisgaard","Others","EUR",1,950,7.435839,7064.04705
+2021-09-20,"google / cpc","02: shopping [smart]","Others","EUR",23,15650,7.435902,116371.8663
+2021-09-20,"google / cpc","01: dsa","Others","EUR",6,3160,7.435902,23497.45032
+2021-09-20,"google / cpc","00: brand","Brand","DKK",11,6665,1,6665
+2021-09-20,"google / cpc","b: ecco","Others","DKK",3,2865,1,2865
+2021-09-20,"(direct) / (none)","(not set)","Others","DKK",56,46434,1,46434
+2021-09-20,"google / organic","(not set)","Others","EUR",31,27405,7.435902,203780.89431
+2021-09-20,"google / cpc","b: tøjfus","Others","EUR",2,900,7.435902,6692.3118
+2021-09-20,"google / cpc","00: brand - mærker","Brand","EUR",2,1050,7.435902,7807.6971
+2021-09-20,"facebook / social","boernenes-uge_fokus-paa-brands","Others","EUR",2,945,7.435902,7026.92739
+2021-09-20,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter nu (kundeklub)","Others","EUR",2,1090,7.435902,8105.13318
+2021-09-20,"nyhedsbrev / email","uge 37 - dk - børnenes uge er igang - (til alle)","Others","EUR",2,770,7.435902,5725.64454
+2021-09-20,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",2,925,7.435902,6878.20935
+2021-09-20,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",2,1335,7.435902,9926.92917
+2021-09-20,"bing / organic","(not set)","Others","EUR",1,400,7.435902,2974.3608
+2021-09-20,"nyhedsbrev / email","04 - fodscanner - dk","Others","EUR",1,490,7.435902,3643.59198
+2021-09-20,"facebook / social","dpa","Others","EUR",1,525,7.435902,3903.84855
+2021-09-20,"ønskeskyen.dk / referral","(not set)","Others","EUR",1,550,7.435902,4089.7461
+2021-09-20,"nyhedsbrev / email","uge 27 - år 21 - dk - børn sale, mail 1","Others","EUR",1,900,7.435902,6692.3118
+2021-09-20,"acs2.3dsecure.no / referral","(not set)","Others","EUR",1,550,7.435902,4089.7461
+2021-09-20,"l.facebook.com / referral","(not set)","Others","EUR",1,700,7.435902,5205.1314
+2021-09-20,"google / cpc","b: kool","Others","EUR",1,900,7.435902,6692.3118
+2021-09-21,"google / cpc","02: shopping [smart]","Others","EUR",20,13695,7.436042,101836.59519
+2021-09-21,"google / cpc","01: dsa","Others","EUR",5,2800,7.436042,20820.9176
+2021-09-21,"google / cpc","00: brand","Brand","EUR",13,12180,7.436042,90570.99156
+2021-09-21,"facebook / social","boernenes-uge_sidste-chance","Others","DKK",3,2190,1,2190
+2021-09-21,"(direct) / (none)","(not set)","Others","EUR",49,35170,7.436042,261525.59714
+2021-09-21,"google / organic","(not set)","Others","EUR",41,30150,7.436042,224196.6663
+2021-09-21,"nyhedsbrev / email","uge 38 - dk - børnenes uge - sidste chance","Others","EUR",4,2500,7.436042,18590.105
+2021-09-21,"bing / organic","(not set)","Others","EUR",3,2700,7.436042,20077.3134
+2021-09-21,"authentication.cardinalcommerce.com / referral","(not set)","Others","EUR",2,1900,7.436042,14128.4798
+2021-09-21,"facebook / social","dpa","Others","EUR",2,1500,7.436042,11154.063
+2021-09-21,"google / cpc","g: tøj","Others","EUR",1,3600,7.436042,26769.7512
+2021-09-21,"google / cpc","b: tøjfus","Others","DKK",1,1075,1,1075
+2021-09-21,"google / cpc","b: superfit","Others","EUR",1,595,7.436042,4424.44499
+2021-09-21,"google / cpc","00: brand - kategorier","Brand","EUR",1,650,7.436042,4833.4273
+2021-09-21,"google / cpc","00: brand - by","Brand","EUR",1,700,7.436042,5205.2294
+2021-09-21,"nyhedsbrev / email","uge 35 - år 21 - dk - fashion lookbook - long chelsea","Others","EUR",1,280,7.436042,2082.09176
+2021-09-21,"nyhedsbrev / email","(not set)","Others","EUR",1,245,7.436042,1821.83029
+2021-09-21,"facebook / social","kids_brand_days","Others","EUR",1,1125,7.436042,8365.54725
+2021-09-21,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,315,7.436042,2342.35323
+2021-09-21,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,475,7.436042,3532.11995
+2021-09-21,"nyhedsbrev / email","resetpassword-dk","Others","EUR",1,300,7.436042,2230.8126
+2021-09-21,"facebook / social","01_boerneunivers_always-on_passer-tøjene-stadig","Others","EUR",1,915,7.436042,6803.97843
+2021-09-21,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",1,490,7.436042,3643.66058
+2021-09-21,"facebook / social","boernenes-uge_fokus-paa-brands","Others","EUR",1,819,7.436042,6090.118398
+2021-09-21,"nyhedsbrev / email","uge 37 - dk - børnenes uge - fokus på brands og varerne","Others","EUR",1,350,7.436042,2602.6147
+2021-09-22,"google / cpc","01: dsa","Others","EUR",14,12860,7.43613,95628.6318
+2021-09-22,"google / cpc","02: shopping [smart]","Others","EUR",21,12485,7.43613,92840.08305
+2021-09-22,"google / cpc","00: brand","Brand","EUR",17,13565,7.43613,100871.10345
+2021-09-22,"facebook / social","boernenes-uge_sidste-chance","Others","EUR",5,4450,7.43613,33090.7785
+2021-09-22,"(direct) / (none)","(not set)","Others","EUR",54,38444,7.43613,285874.58172
+2021-09-22,"nyhedsbrev / email","uge 38 - år 21 - dk - rieker - lookbook","Others","EUR",5,4175,7.43613,31045.84275
+2021-09-22,"facebook / social","dpa","Others","EUR",3,1790,7.43613,13310.6727
+2021-09-22,"google / organic","(not set)","Others","EUR",29,18594,7.43613,138267.40122
+2021-09-22,"google / cpc","00: brand - by","Brand","EUR",2,1200,7.43613,8923.356
+2021-09-22,"ønskeskyen.dk / referral","(not set)","Others","EUR",2,2000,7.43613,14872.26
+2021-09-22,"yahoo / organic","(not set)","Others","EUR",2,2380,7.43613,17697.9894
+2021-09-22,"nyhedsbrev / email","uge 37 - dk - børnenes uge er igang - (til alle)","Others","EUR",2,2105,7.43613,15653.05365
+2021-09-22,"google / cpc","b: mia maja","Others","EUR",2,1625,7.43613,12083.71125
+2021-09-22,"google / cpc","b: tøjfus","Others","EUR",1,750,7.43613,5577.0975
+2021-09-22,"google / cpc","b: skechers","Others","EUR",1,800,7.43613,5948.904
+2021-09-22,"google / cpc","b: rohde","Others","EUR",1,400,7.43613,2974.452
+2021-09-22,"google / cpc","g: tøj","Others","EUR",1,750,7.43613,5577.0975
+2021-09-22,"google / cpc","g: hjemmetøj","Others","EUR",1,350,7.43613,2602.6455
+2021-09-22,"acs2.swedbank.se / referral","(not set)","Others","EUR",1,650,7.43613,4833.4845
+2021-09-22,"bing / organic","(not set)","Others","EUR",1,625,7.43613,4647.58125
+2021-09-22,"nyhedsbrev / email","newslettersignup-welcomemailtemppassword-dk","Others","EUR",1,765,7.43613,5688.63945
+2021-09-22,"nyhedsbrev / email","uge 38 - dk - børnenes uge - sidste chance","Others","EUR",1,510,7.43613,3792.4263
+2021-09-22,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",1,825,7.43613,6134.80725
+2021-09-22,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,1110,7.43613,8254.1043
+2021-09-22,"acs1.3dsecure.no / referral","(not set)","Others","EUR",1,1350,7.43613,10038.7755
+2021-09-22,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,1150,7.43613,8551.5495
+2021-09-22,"google / cpc","b: kool","Others","EUR",1,1165,7.43613,8663.09145
+2021-09-22,"google / cpc","b: converse","Others","EUR",1,550,7.43613,4089.8715
+2021-09-23,"google / cpc","00: brand","Brand","EUR",12,7650,7.436147,56886.52455
+2021-09-23,"google / cpc","02: shopping [smart]","Others","EUR",12,7275,7.436147,54097.969425
+2021-09-23,"google / cpc","01: dsa","Others","EUR",5,5250,7.436147,39039.77175
+2021-09-23,"(direct) / (none)","(not set)","Others","EUR",41,33874,7.436147,251892.043478
+2021-09-23,"google / organic","(not set)","Others","EUR",25,17968,7.436147,133612.689296
+2021-09-23,"nyhedsbrev / email","uge 38 - år 21 - dk - rieker - lookbook","Others","EUR",2,3500,7.436147,26026.5145
+2021-09-23,"facebook / social","dpa","Others","EUR",2,2050,7.436147,15244.10135
+2021-09-23,"google / cpc","00: brand - by","Brand","EUR",1,700,7.436147,5205.3029
+2021-09-23,"google / cpc","b: marco tozzi","Others","EUR",1,600,7.436147,4461.6882
+2021-09-23,"nyhedsbrev / email","uge","Others","EUR",1,450,7.436147,3346.26615
+2021-09-23,"facebook / social","bu_de-forste-tøj","Others","EUR",1,600,7.436147,4461.6882
+2021-09-23,"yahoo / organic","(not set)","Others","EUR",1,650,7.436147,4833.49555
+2021-09-23,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter nu (kundeklub)","Others","EUR",1,400,7.436147,2974.4588
+2021-09-23,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,675,7.436147,5019.399225
+2021-09-23,"l.facebook.com / referral","(not set)","Others","EUR",1,600,7.436147,4461.6882
+2021-09-23,"bing / organic","(not set)","Others","EUR",1,300,7.436147,2230.8441
+2021-09-23,"pay.activa-card.com / referral","(not set)","Others","EUR",1,900,7.436147,6692.5323
+2021-09-23,"foriseu-vbv.mycardplace.com / referral","(not set)","Others","DKK",1,800,1,800
+2021-09-23,"banner / display","refresh_your_sneakers","Others","EUR",1,825,7.436147,6134.821275
+2021-09-23,"google / cpc","b: b&co","Others","EUR",1,550,7.436147,4089.88085
+2021-09-24,"google / cpc","00: brand","Brand","EUR",12,7800,7.436212,58002.4536
+2021-09-24,"google / cpc","02: shopping [smart]","Others","EUR",10,5465,7.436212,40638.89858
+2021-09-24,"google / cpc","01: dsa","Others","EUR",9,6000,7.436212,44617.272
+2021-09-24,"google / organic","(not set)","Others","EUR",22,17922,7.436212,133271.791464
+2021-09-24,"facebook / social","dpa","Others","EUR",3,2200,7.436212,16359.6664
+2021-09-24,"(direct) / (none)","(not set)","Others","EUR",52,35835,7.436212,266476.65702
+2021-09-24,"nyhedsbrev / email","uge 38 - år 21 - dk - fashion lookbook - efterårsnyheder marco tozzi fokus","Others","EUR",4,3425,7.436212,25469.0261
+2021-09-24,"nyhedsbrev / email","uge 38 - år 21 - dk - rieker - lookbook","Others","EUR",2,1150,7.436212,8551.6438
+2021-09-24,"bing / organic","(not set)","Others","EUR",2,950,7.436212,7064.4014
+2021-09-24,"google / cpc","b: rieker","Others","EUR",1,550,7.436212,4089.9166
+2021-09-24,"google / cpc","g: tøj","Others","EUR",1,650,7.436212,4833.5378
+2021-09-24,"google / cpc","b: ecco","Others","EUR",1,900,7.436212,6692.5908
+2021-09-24,"m.facebook.com / referral","(not set)","Others","EUR",1,1500,7.436212,11154.318
+2021-09-24,"ønskeskyen.dk / referral","(not set)","Others","EUR",1,900,7.436212,6692.5908
+2021-09-24,"nyhedsbrev / email","uge 38 - dk - børnenes uge - sidste chance","Others","EUR",1,1700,7.436212,12641.5604
+2021-09-24,"iPaper / magasin","boernenes_uge","Others","EUR",1,200,7.436212,1487.2424
+2021-09-24,"nyhedsbrev / email","uge 11 - dk - børnenes uge starter snart - klubmedlem -","Others","EUR",1,650,7.436212,4833.5378
+2021-09-24,"nyhedsbrev / email","abandoned basket email - dk","Others","EUR",1,650,7.436212,4833.5378
+2021-09-24,"s0.2mdn.net / referral","(not set)","Others","EUR",1,2200,7.436212,16359.6664
+2021-09-25,"google / cpc","02: shopping [smart]","Others","EUR",8,5800,7.43732,43136.456
+2021-09-25,"google / cpc","01: dsa","Others","EUR",7,5040,7.43732,37484.0928
+2021-09-25,"google / cpc","00: brand","Brand","EUR",15,12395,7.43732,92185.5814
+2021-09-25,"google / organic","(not set)","Others","EUR",26,20859,7.43732,155135.05788
+2021-09-25,"(direct) / (none)","(not set)","Others","EUR",44,33127,7.43732,246376.09964
+2021-09-25,"facebook / social","dpa","Others","EUR",2,1400,7.43732,10412.248
+2021-09-25,"google / cpc","00: brand - kategorier","Brand","EUR",1,300,7.43732,2231.196
+2021-09-25,"google / cpc","g: tøj","Others","EUR",1,750,7.43732,5577.99
+2021-09-25,"google / cpc","00: brand - by","Brand","EUR",1,800,7.43732,5949.856
+2021-09-25,"yahoo / organic","(not set)","Others","EUR",1,800,7.43732,5949.856
+2021-09-25,"pricerunner / cpc","pricerunner","Others","EUR",1,400,7.43732,2974.928
+2021-09-25,"google / cpc","b: bisgaard","Others","EUR",1,400,7.43732,2974.928
+2021-09-26,"google / cpc","02: shopping [smart]","Others","EUR",12,7825,7.437156,58195.7457
+2021-09-26,"google / cpc","01: dsa","Others","EUR",5,2139,7.437156,15908.076684
+2021-09-26,"google / cpc","00: brand","Brand","EUR",8,6009,7.437156,44689.870404
+2021-09-26,"(direct) / (none)","(not set)","Others","EUR",51,36493,7.437156,271404.133908
+2021-09-26,"nyhedsbrev / email","uge 38 - år 21 - dk - fashion lookbook - efterårsnyheder marco tozzi fokus","Others","EUR",3,2100,7.437156,15618.0276
+2021-09-26,"facebook / social","dpa","Others","EUR",3,1950,7.437156,14502.4542
+2021-09-26,"google / organic","(not set)","Others","EUR",25,16085,7.437156,119626.65426
+2021-09-26,"google / cpc","g: tøj","Others","EUR",2,2560,7.437156,19039.11936
+2021-09-26,"google / cpc","00: brand - by","Brand","EUR",2,1525,7.437156,11341.6629
+2021-09-26,"google / cpc","b: primigi","Others","EUR",2,2650,7.437156,19708.4634
+2021-09-26,"google / cpc","b: tøjfus","Others","EUR",1,450,7.437156,3346.7202
+2021-09-26,"google / cpc","00: brand - mærker","Brand","EUR",1,300,7.437156,2231.1468
+2021-09-26,"google / cpc","(not set)","Others","EUR",1,550,7.437156,4090.4358
+2021-09-26,"nyhedsbrev / email","uge 37 - dk - børnenes uge starter snart - klubmedlem","Others","EUR",1,700,7.437156,5206.0092
+2021-09-26,"nyhedsbrev / email","uge 35 - år 21 - dk - vagabond tøj","Others","EUR",1,1620,7.437156,12048.19272
+2021-09-26,"l.facebook.com / referral","(not set)","Others","EUR",1,350,7.437156,2603.0046
+2021-09-26,"google / cpc","b: hush puppies","Others","EUR",1,800,7.437156,5949.7248
+2021-09-26,"google / cpc","b: kool","Others","EUR",1,500,7.437156,3718.578
+2021-09-26,"google / cpc","b: hummel","Others","EUR",1,600,7.437156,4462.2936
+2021-09-26,"google / cpc","b: tommy hilfiger","Others","EUR",1,900,7.437156,6693.4404
+2021-09-27,"google / cpc","01: dsa","Others","EUR",6,2950,7.435968,21936.1056
+2021-09-27,"google / cpc","00: brand","Brand","EUR",13,8780,7.435968,65287.79904
+2021-09-27,"google / cpc","02: shopping [smart]","Others","EUR",16,8288,7.435968,61629.302784
+2021-09-27,"(direct) / (none)","(not set)","Others","EUR",46,27474,7.435968,204295.784832
+2021-09-27,"google / organic","(not set)","Others","EUR",21,11500,7.435968,85513.632
+2021-09-27,"google / cpc","b: tøjfus","Others","EUR",2,1350,7.435968,10038.5568
+2021-09-27,"bing / organic","(not set)","Others","EUR",2,650,7.435968,4833.3792
+2021-09-27,"facebook / social","dpa","Others","EUR",2,1200,7.435968,8923.1616
+2021-09-27,"google / cpc","00: brand - mærker","Brand","EUR",1,300,7.435968,2230.7904
+2021-09-27,"google / cpc","b: ecco","Others","EUR",1,1400,7.435968,10410.3552
+2021-09-27,"google / cpc","00: brand - by","Brand","EUR",1,400,7.435968,2974.3872
+2021-09-27,"nyhedsbrev / email","uge 38 - dk - børnenes uge - sidste chance","Others","EUR",1,1600,7.435968,11897.5488
+2021-09-27,"nyhedsbrev / email","(not set)","Others","EUR",1,450,7.435968,3346.1856
+2021-09-27,"nyhedsbrev / email","uge 38 - år 21 - dk - rieker - lookbook","Others","EUR",1,550,7.435968,4089.7824
+2021-09-27,"nyhedsbrev / email","uge 38 - år 21 - dk - fashion lookbook - sneakersnyheder","Others","EUR",1,700,7.435968,5205.1776
+2021-09-27,"ønskeskyen.dk / referral","(not set)","Others","EUR",1,600,7.435968,4461.5808
+2021-09-28,"google / cpc","02: shopping [smart]","Others","EUR",8,2988,7.435938,22218.582744
+2021-09-28,"google / cpc","01: dsa","Others","EUR",8,6925,7.435938,51493.87065
+2021-09-28,"google / cpc","00: brand","Brand","EUR",6,7275,7.435938,54096.44895
+2021-09-28,"(direct) / (none)","(not set)","Others","EUR",42,27209,7.435938,202324.437042
+2021-09-28,"google / organic","(not set)","Others","EUR",28,20104,7.435938,149492.097552
+2021-09-28,"bing / organic","(not set)","Others","EUR",2,900,7.435938,6692.3442
+2021-09-28,"google / cpc","b: tøjfus","Others","EUR",1,450,7.435938,3346.1721
+2021-09-28,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,650,7.435938,4833.3597
+2021-09-28,"nyhedsbrev / email","refundemail-dk","Others","EUR",1,200,7.435938,1487.1876
+2021-09-28,"nyhedsbrev / email","uge 38 - år 21 - dk - fashion lookbook - sneakersnyheder","Others","EUR",1,700,7.435938,5205.1566
+2021-09-28,"facebook / social","fashion_lookbook_lancering","Others","EUR",1,3310,7.435938,24612.95478
+2021-09-28,"facebook / social","dpa","Others","EUR",1,200,7.435938,1487.1876
+2021-09-28,"l.facebook.com / referral","(not set)","Others","EUR",1,1200,7.435938,8923.1256
+2021-09-28,"nyhedsbrev / email","uge 38 - år 21 - dk - rieker - lookbook","Others","EUR",1,949,7.435938,7056.705162
+2021-09-28,"nyhedsbrev / email","resetpassword-dk","Others","EUR",1,1050,7.435938,7807.7349
+2021-09-28,"google / cpc","b: nordic softness","Others","EUR",1,650,7.435938,4833.3597
+2021-09-28,"google / cpc","b: kool","Others","EUR",1,625,7.435938,4647.46125
+2021-09-28,"google / cpc","b: zafary","Others","EUR",1,350,7.435938,2602.5783
+2021-09-29,"google / cpc","01: dsa","Others","EUR",5,3590,7.435982,26695.17538
+2021-09-29,"google / cpc","00: brand","Brand","EUR",10,6750,7.435982,50192.8785
+2021-09-29,"google / cpc","02: shopping [smart]","Others","EUR",14,8840,7.435982,65734.08088
+2021-09-29,"(direct) / (none)","(not set)","Others","EUR",40,31695,7.435982,235683.44949
+2021-09-29,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",3,2175,7.435982,16173.26085
+2021-09-29,"google / organic","(not set)","Others","EUR",27,17664,7.435982,131349.186048
+2021-09-29,"google / cpc","b: tøjfus","Others","EUR",1,450,7.435982,3346.1919
+2021-09-29,"google / cpc","b: ecco","Others","EUR",1,1300,7.435982,9666.7766
+2021-09-29,"google / cpc","00: brand - by","Brand","EUR",1,300,7.435982,2230.7946
+2021-09-29,"google / cpc","b: skechers","Others","EUR",1,1800,7.435982,13384.7676
+2021-09-29,"banner / display","fashion_dame","Others","EUR",1,160,7.435982,1189.75712
+2021-09-29,"ønskeskyen.dk / referral","(not set)","Others","EUR",1,350,7.435982,2602.5937
+2021-09-29,"facebook / social","fashion_marco-tozzi","Others","EUR",1,2600,7.435982,19333.5532
+2021-09-29,"facebook / social","dpa","Others","EUR",1,400,7.435982,2974.3928
+2021-09-29,"google / cpc","(not set)","Others","EUR",1,350,7.435982,2602.5937
+2021-09-29,"bing / organic","(not set)","Others","EUR",1,650,7.435982,4833.3883
+2021-09-29,"acs2.3dsecure.no / referral","(not set)","Others","EUR",1,450,7.435982,3346.1919
+2021-09-29,"amagercentret.dk / referral","(not set)","Others","EUR",1,400,7.435982,2974.3928
+2021-09-29,"google / cpc","b: viking","Others","EUR",1,725,7.435982,5391.08695
+2021-09-29,"google / cpc","b: puma","Others","EUR",1,550,7.435982,4089.7901
+2021-09-30,"google / cpc","00: brand","Brand","EUR",14,7625,7.436294,56701.74175
+2021-09-30,"google / cpc","01: dsa","Others","EUR",6,5250,7.436294,39040.5435
+2021-09-30,"google / cpc","02: shopping [smart]","Others","EUR",20,17825,7.436294,132551.94055
+2021-09-30,"google / organic","(not set)","Others","EUR",37,25015,7.436294,186018.89441
+2021-09-30,"(direct) / (none)","(not set)","Others","DKK",52,37988,1,37988
+2021-09-30,"nyhedsbrev / email","uge 38 - år 21 - dk - fashion lookbook - sneakersnyheder","Others","EUR",2,1200,7.436294,8923.5528
+2021-09-30,"google / cpc","00: brand - by","Brand","EUR",1,700,7.436294,5205.4058
+2021-09-30,"bing / organic","(not set)","Others","EUR",1,425,7.436294,3160.42495
+2021-09-30,"nyhedsbrev / email","uge 32 - år 21 - dk - kids brand days sneakers (fila puma)","Others","EUR",1,1500,7.436294,11154.441
+2021-09-30,"nyhedsbrev / email","02 - klubfordele lokal karma - dk","Others","EUR",1,1000,7.436294,7436.294
+2021-09-30,"nyhedsbrev / email","abandoned product interest email - dk","Others","EUR",1,600,7.436294,4461.7764
+2021-09-30,"programmatic / display","rieker","Others","EUR",1,1200,7.436294,8923.5528
+2021-09-30,"nyhedsbrev / email","uge 34 - år 21 - dk - fashion lookbook loafers - dame","Others","EUR",1,400,7.436294,2974.5176
+2021-09-30,"nyhedsbrev / email","uge 30 - år 21 - dk - sale slutspurt - mail 2","Others","EUR",1,600,7.436294,4461.7764

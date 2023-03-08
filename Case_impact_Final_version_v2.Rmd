@@ -1,0 +1,298 @@
+---
+title: "Case_impact_final"
+Author: Hossain Morhed
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#clearing the environment
+
+```{r}
+rm(list=ls(all=TRUE))
+```
+
+#Loading the "Tidyverse" library, if the library does not exist it will install the library after it loads the library. 
+
+```{r}
+if(!require("tidyverse")){
+  install.packages("tidyverse")
+}
+
+library(tidyverse)
+```
+
+# Upload Semicolon-separated CSV files into the environment.
+
+```{r}
+case_data <- read.csv("extend_case_data.csv",sep = ";")
+head(case_data)
+
+```
+
+
+# summary of the table
+```{r}
+summary(case_data)
+
+```
+
+# we are checking the data type and checking the missing value.
+# In R, missing values are represented by the symbol NA (not available). Impossible values (e.g., dividing by zero) are represented by the symbol NaN (not a number).
+```{r}
+
+glimpse(case_data)
+
+#colSums(is.na(raw_case_data))
+#colSums(raw_case_data=="")
+```
+
+
+```{r}
+colSums(is.na(case_data))
+```
+
+
+```{r}
+colSums(case_data=="")
+
+```
+
+# converting date column from factor to date.
+
+```{r}
+case_data$date<-as.Date(case_data$date, format="%d-%m-%Y")
+
+```
+
+
+# converting date column from factor to date.
+
+```{r}
+#print(raw_case_data$date)
+
+#case_data1<- raw_case_data %>% mutate(date_date = as.Date(raw_case_data$date, format="%d-%m-%Y"))
+#case_data<-case_data1 %>% select(-date)
+
+#case_data<-case_data1 %>% select(date_date,source_medium,campaign,currency,transactions,transaction_revenue)
+
+#colnames(case_data)[1]<-"date"
+#colnames(case_data)[which(names(case_data) == "date_date")] <- "date"
+```
+
+# Checking the data type again also the different types of currency present in our data set.
+
+```{r}
+glimpse(case_data)
+table(case_data['currency'])
+
+case_data %>% count(currency)
+
+```
+
+#part a: creating a column of specific date exchange rate or historical exchange rate
+# Installing and loading the library quantmod
+
+```{r}
+
+if(!require("quantmod")){
+  install.packages("quantmod")
+}
+library(quantmod)
+
+```
+# By using 'quantmod' we collect or download exchange rate data from Oanda. https://www.oanda.com/eu-en/
+# Oanda, The Currency Site (FX and Metals)
+
+# creating a list of currency combinations from the currency column of our data table and using it to download the September 2021 currency exchange rate. The exchange rate is in DKK.
+```{r}
+
+currCombinations = paste(setdiff(unique(case_data$currency),"DKK"),"DKK",sep="/")
+
+for (i in currCombinations){
+  #print(i)
+  getFX(i,from="2021-09-01", to="2021-09-30")
+}
+
+```
+
+# creating an exchange rate column and filling each row with value 1. Exchange rate 1 DKK = 1 DKK
+
+```{r}
+case_data$exchange_rate<- 1
+```
+
+# Now we are filling the exchange rate column based on USD currency and date.
+# All exchange rates are in DKK.
+
+```{r}
+row_number<- which(case_data$currency=="USD",arr.ind=TRUE)
+#print(row_number)
+selected_date<-c()
+for (i in row_number){
+  selected_date<-c(selected_date,case_data[i,"date"])
+}
+#print(selected_date)
+e_rate<-c()
+for (i in selected_date){
+  e_rate<-c(e_rate,USDDKK[as.Date(i)])
+}
+
+exchange_rate_temp<-replace(case_data$exchange_rate,row_number,e_rate)
+case_data$exchange_rate<- exchange_rate_temp
+```
+
+# Now we are filling the exchange rate column based on NOK currency and date.
+# All exchange rates are in DKK.
+
+```{r}
+row_number<- which(case_data$currency=="NOK",arr.ind=TRUE)
+#print(row_number)
+selected_date<-c()
+for (i in row_number){
+  selected_date<-c(selected_date,case_data[i,"date"])
+}
+#print(selected_date)
+e_rate<-c()
+for (i in selected_date){
+  e_rate<-c(e_rate,NOKDKK[as.Date(i)])
+}
+
+exchange_rate_temp<-replace(case_data$exchange_rate,row_number,e_rate)
+case_data$exchange_rate<- exchange_rate_temp
+```
+
+# Now we are filling the exchange rate column based on SEK currency and date.
+# All exchange rates are in DKK.
+
+```{r}
+row_number<- which(case_data$currency=="SEK",arr.ind=TRUE)
+#print(row_number)
+selected_date<-c()
+for (i in row_number){
+  selected_date<-c(selected_date,case_data[i,"date"])
+}
+#print(selected_date)
+e_rate<-c()
+for (i in selected_date){
+  e_rate<-c(e_rate,SEKDKK[as.Date(i)])
+}
+
+exchange_rate_temp<-replace(case_data$exchange_rate,row_number,e_rate)
+case_data$exchange_rate<- exchange_rate_temp
+```
+
+# Now we are filling the exchange rate column based on AUD currency and date.
+# All exchange rates are in DKK.
+
+```{r}
+row_number<- which(case_data$currency=="AUD",arr.ind=TRUE)
+#print(row_number)
+selected_date<-c()
+for (i in row_number){
+  selected_date<-c(selected_date,case_data[i,"date"])
+}
+#print(selected_date)
+e_rate<-c()
+for (i in selected_date){
+  e_rate<-c(e_rate,AUDDKK[as.Date(i)])
+}
+
+exchange_rate_temp<-replace(case_data$exchange_rate,row_number,e_rate)
+case_data$exchange_rate<- exchange_rate_temp
+```
+
+# Now we are filling the exchange rate column based on EUR currency and date.
+# All exchange rates are in DKK.
+
+```{r}
+row_number<- which(case_data$currency=="EUR",arr.ind=TRUE)
+#print(row_number)
+selected_date<-c()
+for (i in row_number){
+  selected_date<-c(selected_date,case_data[i,"date"])
+}
+#print(selected_date)
+e_rate<-c()
+for (i in selected_date){
+  e_rate<-c(e_rate,EURDKK[as.Date(i)])
+}
+
+exchange_rate_temp<-replace(case_data$exchange_rate,row_number,e_rate)
+case_data$exchange_rate<- exchange_rate_temp
+```
+
+
+# creating a column revenue_in_DKK
+
+```{r}
+case_data$revenue_in_DKK<- case_data$transaction_revenue*case_data$exchange_rate
+```
+
+# counting each item in the campaign column to get an overall idea.
+
+```{r}
+case_data %>% count(campaign)
+
+```
+
+# Creating a column based on Brand and Others, we filling each raw with Others
+
+```{r}
+#case_data$campaign_categori<- "Others"
+library(tibble)
+case_data<- add_column(case_data, campaign_categori = "Others", .after = "campaign")
+
+```
+
+# Finding appropriate row which is "00: brand" and replaces Others with Brand.
+
+```{r}
+case_data$campaign_categori[(str_detect(case_data$campaign,regex("00: brand",ignore_case = TRUE)))==1]<-"Brand"
+
+```
+
+# Counting the campaign_categori to make sure the code is working properly.
+
+```{r}
+case_data %>% count(campaign_categori)
+
+```
+
+# save the new table as a CSV file.
+
+```{r}
+write.csv(case_data,"case_data_final_v2.csv", row.names = FALSE)
+
+
+```
+
+# 
+
+```{r}
+#if(!require("xlsx")){
+  #install.packages("xlsx")
+#}
+#library(xlsx)
+#write.xlsx(case_data, "case_data_final.xlsx")
+
+```
+
+
+```{r}
+
+
+```
+
+
+```{r}
+
+
+```
+
+
+
+
